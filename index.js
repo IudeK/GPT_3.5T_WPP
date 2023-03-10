@@ -1,5 +1,6 @@
 //Integração do chat GPT 3.5 Turbo com wpp
-//devoleped by Iude Kildare de Meneses github
+//devoleped by Iude Kildare de Meneses 
+//https://github.com/IudeK
 
 import { create } from 'venom-bot'
 import * as dotenv from 'dotenv'
