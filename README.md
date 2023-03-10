@@ -11,7 +11,7 @@ git clone https://github.com/IudeK/GPT_3.5T_WPP.git
 ```sh
 npm install
 ```
-- Crie um arquivo .env na raiz do projeto e adicione as seguintes informações:
+- Crie um arquivo chamado ".env" na raiz do projeto e adicione as seguintes informações:
 
 ```sh
 OPENAI_KEY=<sua_chave_da_API>
