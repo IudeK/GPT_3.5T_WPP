@@ -20,7 +20,7 @@ PHONE_NUMBER=<seu_número_de_telefone_com_código_de_país_e_DDD>
 ```
 - Você pode obter os dados nos seguintes links:
 
-| Dado | Link |
+|  |  |
 | ------ | ------ |
 | OPENAI_KEY | https://platform.openai.com/account/api-keys |
 | ORGANIZATION_ID | https://platform.openai.com/account/org-settings |
