@@ -36,7 +36,6 @@ const getGPTResponse = async (clientText) => {
     }
 
     try {
-        console.log(clientText)
         const response = await openai.createChatCompletion(options);
         let botResponse = response["data"]["choices"][0]["message"]["content"]
 
