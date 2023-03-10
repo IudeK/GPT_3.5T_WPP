@@ -31,3 +31,9 @@ PHONE_NUMBER=<seu_número_de_telefone_com_código_de_país_e_DDD>
 ```sh
 node .
 ```
+
+- No console escanei o QRCODE, após conectado, mande uma msg para seu próprio numero no wpp:
+
+```sh
+/gpt <minha_pergunta>
+```
